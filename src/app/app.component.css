@@ -1,8 +1,18 @@
 h1 {
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: #F0FFFF;
+    width: 500px;
     color: red;
 
 }
 p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: #F0FFFF;
+    width: 500px;
     color: red;
 }
 * {
@@ -14,6 +24,6 @@ p {
     justify-content: center;
     width: 100vw;
     background-color: whitesmoke;
-    margin: 0px;
+    margin: auto;
     
 }

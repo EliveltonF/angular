@@ -14,9 +14,8 @@ p {
     
 }
 div {
-    border: 2px solid red;
     border-radius: 10px;
     margin-top: 60px;
     padding: 20px;
-    background-color: rgba(154, 41, 189, 0.637);
+    background-color: rgba(8, 8, 8, 0.596);
 }
