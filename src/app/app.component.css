@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+
+}
+p {
+    color: red;
+}
+* {
+    
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    background-color: whitesmoke;
+    margin: 0px;
+    
+}
